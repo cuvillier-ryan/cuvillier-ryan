@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ---
-- 🔭 I’m currently working on ...devlopment
+- 🔭 I’m currently working on ...software devlopment
 - 🌱 I’m currently learning ...Spring/Java, AWS
-- 👯 I’m looking to collaborate on ...a full-stack project
+- 👯 I’m looking to collaborate on ...a Full-Stack Project
 - 🤔 I’m looking for help with ...collaboration
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/ryan-cuvillier/)
