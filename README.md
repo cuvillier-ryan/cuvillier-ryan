@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...my last name is French.
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuvillier-ryan&theme=radical)
