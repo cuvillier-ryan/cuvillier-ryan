@@ -8,7 +8,6 @@
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/ryan-cuvillier/)
 - 😄 Pronouns: ...he/him/his
-- ⚡ Fun fact: ...my last name is French.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuvillier-ryan&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
