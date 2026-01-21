@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ---
-- 🔭 I’m currently working on ...software devlopment
-- 🌱 I’m currently learning ...Spring/Java, AWS, React, Python and Web3
+- 🔭 I’m currently working on ...software development
+- 🌱 I’m currently learning ...Spring/Java, AWS, React/Angular, Python and Web3
 - 👯 I’m looking to collaborate on ...a Full-Stack Project
 - 🤔 I’m looking for help with ...collaboration
 - 💬 Ask me about ...anything
